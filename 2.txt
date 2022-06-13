@@ -1,0 +1,8 @@
+Byte export of selected filtered-in frames
+Capture file: "btsnoop_hci_last.log"
+Filter: "AVDTP Signaling -+- HCI UART"
+1 frame exported
+
+Frame Number,Timestamp,Frame Contents
+256,2022/6/9 6:49:22.262465,02 01 20 17 00 13 00 41 00 32 0c 01 00 07 0b 00 ff 3a 05 00 00 33 4c 3c d1 81 08 00
+[Export finished]
